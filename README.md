@@ -17,3 +17,10 @@ Alterativelty you can clone this repo to your machine and copy from there.
 
 ## How to contribute
 To work on the project, first branch off from master, work on your branch and create a pull request with your changes/additions.
+
+
+## Requirements
+
+- Each starter project should be built with a `src` and `dist` directoris
+- Each project needs a build task where JS is linted with ESLint
+- Each project needs an easy way of previewing the compiled site in a local browser (node-connect, browsersync etc)
