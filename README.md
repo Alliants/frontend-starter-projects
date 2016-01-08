@@ -11,6 +11,9 @@ to the standard expected at Alliants.
 ### Gulp
 * [Basic](gulp/basic/README.md)
 
+### Webpack
+* [React](webpack/react/README.md)
+
 ## How to use
 To use one of the projects in this repo, download the ZIP file and copy the one you need.
 Alterativelty you can clone this repo to your machine and copy from there.
